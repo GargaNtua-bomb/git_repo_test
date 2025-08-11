@@ -1,2 +1,2 @@
 # git_repo_test
-test
+anayın amıya koyarlar
